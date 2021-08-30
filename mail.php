@@ -1,6 +1,6 @@
 <?php 
 
-$to = 'baranzengeralp@gmail.com'; 
+$to = 'kasarmusa123@gmail.com'; 
 
 $subject = 'Guidelines to be followed for COVID19'; 
 
